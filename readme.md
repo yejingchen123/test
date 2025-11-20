@@ -7,3 +7,6 @@
 
 ### 加点图片吧
 ![git](images/git.png)
+
+### 加个链接吧
+[百度](http://www.baidu.com "百度首页")
