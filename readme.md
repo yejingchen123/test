@@ -4,3 +4,6 @@
 
 ### 这里是dev分支
 ### 与master分支融合
+
+### 加点图片吧
+![git](images/git.png)
