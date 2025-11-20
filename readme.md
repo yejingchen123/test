@@ -15,3 +15,10 @@
 ### 加个链接吧
 
 [百度](http://www.baidu.com "百度首页")
+
+### 加点代码
+
+```python
+def add(a,b):
+    return a+b
+print(add(1,2))
